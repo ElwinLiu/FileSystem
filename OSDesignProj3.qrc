@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/OSDesignProj3">
+        <file>file.png</file>
+        <file>folder.png</file>
+        <file>left.png</file>
+        <file>search.png</file>
+        <file>delete.png</file>
+    </qresource>
+</RCC>
